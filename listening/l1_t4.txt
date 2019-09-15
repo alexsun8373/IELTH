@@ -1,0 +1,92 @@
+Listen 4
+Dialogues
+Dialogue-1 
+Here is some coffee
+On (#1 ?/fantastic), is there any (#1 suger/sugar)?
+Suger? Yes of course, here you are.
+Thanks! Er...
+What's the matter now?
+Are there any (#5 chops/chocolate) and (#1 bistics/biscuits).
+No there aren't.
+Oh.
+ 
+Dialogue-2
+Where do you live?
+Near (#1 ?/Victoria) station.
+In (#4 the/a) flat or (#6 ?/a) house?
+In (#4 the/a) flat.
+(#9 House/Houses) are terriblely expensive.
+What's your flat like?
+It's small and building is old, but it's comfortable.
+It's very near my office.
+ 
+Dialogue-3
+When did you buy that new (#1 ?/necklace) ?
+I didn't buy it, it was a present.
+Oh, who gave it to you?
+A friend.
+Anybody I know?
+Don't ask so many questions.
+ 
+Dialogue-4
+Tom and Anna saw a film yesterday.
+It was exciting, wasn't it?
+Yes it was.
+Charles Bronbson was good, wasn't he?
+Yes, he always is.
+I thought the girl was good too.
+Did you?
+ 
+ 
+Sections-2 Conversations
+A conversation-1
+What are you doing?
+I am (#1 ?/packing).
+Why?
+Because I'm (#5 living/leaving).
+Your're not.
+Yes I am, I'm catching the first train (#1 tommrow/tomorrow).
+But I...
+And (#6 I may/ I'm) not coming back.
+Oh, where are you going?
+To (#1 ?/Hawaii).
+Oh darling.
+ 
+B conversation-2
+Excuse me, Mr Jones.
+Can you help me?
+Of course.
+What's the problem?
+Well, I have to wear (#6 ?/an) (#1 ?/overall), but I can't find one.
+That's easy.
+Why don't you look (#5 at/in) the (#1 carpet/cupboard) beside the (#1 wash/washbasin).
+You will find one there.
+ 
+C conversation-3
+7824145 Jean Williamson speaking.
+Oh, it you Jean.
+Sorry, I have to (#1 rush out/rush off) this morning. How are the boys.
+I am taking them to the (#1 docutor/doctor) at 12 o'clock, but I'm sure they are going to be all right.
+That's good, what about you?
+Oh, I'm fine now.
+I'm going to bake a birthday cake for tommorw. and I'v got a camera for Peter and some records for Paul.
+You (#1 ?/spoil) them.
+I'm going to open the (#9 saving/savings) account for them.
+They need to learn how to save money.
+Section 3
+Dictation
+Dictation 1
+My grandfather (#9 live/lives) with us.
+He is 70 years old and I like talking to him.
+Everyday I go for a walk with him in the park.
+My grandfather has a dog.
+The dog's name is Nelson.
+Nelson is old and he has very short legs and bad eyes.
+But my grandfather (#9 like/likes) him very much.
+ 
+Dictation 2
+I have a small black and (#1 ?/white) television and I can get a good picture.
+But my brother has got a color television.
+It's bigger, heavier and more (#1 completcate/complicated) than mine.
+My brother (#9 get/gets) a better picture on his television than I do on mine.
+So when there's something very good on TV, I usually go and see my brother.

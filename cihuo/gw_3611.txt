@@ -1,0 +1,43 @@
+Government funding|政府资助|#1 
+Struggle with|与...作斗争|#1
+Budget deficits|预算赤字|#1
+budget constraints|预算不足,受限|#2
+Give propriety to|给予高优先级,看重|#2
+Have a budget surplus|预算过剩|#2
+Fund the arts|为艺术提供资金|#2
+Support the arts financially|资金上支持艺术|#2
+Public funds|公共基金|#3
+Artistic appeal|艺术感染力|#3
+Visually attractive/spectacular|更加吸引人|#3
+Public places/public spaces|公共场所|#4
+The art industry|艺术行业|#5
+Architectural styles|建筑风格|#5
+Enjoy urban life|享受城市成活|#5
+Exposure to artworks|接触艺术|#6
+Reduce the pressure/reduce stress|减少压力|#6
+Put somebody in a good mood|使某人心情好|#6
+Public money|公共资金|#7
+Public funds|公共基金|#7
+Water and electricity supply networks|水电供应网|#8
+Living standards|生活标准|#8
+Good sanitation|好的卫生设备|#9
+Improve public health|促进/提升大众健康|#9
+Reduce diseases|减少疾病|#9
+Disseminate knowledge|传播知识|#9
+Improve job prospects|提升工作前景|#9
+Luxury items/lavish goods|奢饰品|#10
+Tangible benefits|实际的好处|#10
+Promote economy development|促进经济发展|#11
+Grow the economy|促进经济发展|#11
+The transport system|交通系统|#12
+Improve productivity|提告生产力|#12
+Daily commuting|日常通勤|#12
+High-speed railway systems|高速铁路系统|#12
+Deliver cargo|运输货物|#12
+Attract investment/lure investment|吸引投资|#13
+Experience an improvement in the standard of living|经历生活水平提高|#13
+generate an immediate financial pay off|短时间产生经济回报|#14
+Create returns|产生回报|#14
+In a short time|在短时间内|#14
+The wellbeing of the general public|普通大众的健康|#15
+Artistic projects|艺术项目|#15

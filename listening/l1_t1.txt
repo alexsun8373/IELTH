@@ -1,0 +1,113 @@
+#START
+Listen to this 1 -Test 1
+
+Section 1
+(#1 Dialog/Dialogue) 1:
+Hello, I want a cab.
+OK, what address is it?
+1120 (#2 east/East) (#3 32/32nd) (#2 street/Street).
+Right, the cab will be there a few minutes.
+ 
+Dialogues 2:
+What’s your job?
+I am (#4 a/an) accountant.
+Oh, do you(#5 join/enjoy) it?
+No I don’t really like it, it’s boring.
+ 
+Dialogue 3:
+Where do you come from?
+Indonesia.
+Oh, which part?
+Jakarta.
+Really?
+ 
+Dialogue 4:
+Can you speak German?
+Yes, I can.
+I speak (#6 ?/it) very well.
+Where did you learn it?
+I lived in Germany when I was a child.
+What else can you speak?
+Well, I know a little(#1 Italian/Italian).
+ 
+Dialogue 5:
+I a think a business man should be good-looking.
+No I don’t agree.
+ 
+Dialogue 6:
+Would you like(#5 to/a) drink?
+No thank you, I don’t drink.
+(#6 ?/Are)You sure?
+Yes I quite sure, thank you very much.
+What about then soft drink then?
+Oh, (#1 all right/Alright), that(#1 ?/Lemonade)(#5 might/would) be fine.
+ 
+Dialogue 7:
+Thank you very much for the meal.
+Not at all, I’m glad you could come.
+You must come have a meal with me sometime.
+Yes, that would be nice.
+ 
+Dialogue 8:
+Have hear about the (#1 primary/Prime) (#1 ?/Minister)?
+No
+She’s gone to China.
+Really?
+ 
+Dialogue 9:
+How do you spell interesting?
+Interesting.
+Thank you very much.
+ 
+Dialogue 10:
+Would you mind passing the (#5 soul/salt) please?
+Certainly.
+Section 2
+A-discussion Tim talk to Harry about the lecture.
+What did you think (#6 ?/of) the lecture?
+I thought it was very interesting.
+Did you really?
+Yes, didn’t you?
+Certainly not.
+I thought (#5 it/he ) (#5 talked/talk) (#5 too/a) lot of rubbish.
+So you think you know more than (#6 ?/he) (#5 does/us)?
+Well, take (#5 ?/coal) for instance.
+What about it?
+Coal won’t becoming important again.
+Why not?
+It’s too (#1 ?/dirty).
+They won’t be able to find people to (#7 work on the cold/ work down coal mines) in the future.
+(#7 There are/ They’ll invent) new kinds of (#1 ?/machinery).
+(#1 None of sense/Nonsense).
+(#7 There any/The only) sort of power they will use in the future is (#1 ?/atomic) power.
+ 
+B-interview(a (#1 report/reporter) from a local newspaper is interviewing some students on the subject of students and money)
+Excuse me, are you a student?
+Yes, I am.
+Forgive my asking you, (#6 ?/but) do you have to take a part time job (#7 in ? holidays/in the holidays) 
+Not really. (#7 My parents ... very .../My parents are fairly well off), so I get (#6 ?/an) allowance from my father. 
+You are luck, aren’t you?
+I suppose so.
+ 
+What about you, are your parents wealthy?  
+No, certainly (#5 no/not).
+Do you work (#5 joining/during) the holidays?
+Well, (#5 along/last) (#1 ?/Christmas) I did 2 weeks (#6 ?/as) (#1 ?/temporary) postman, then in the summer I (#8 spend/spent) 4 weeks (#5 for/fruit) picking and I do (#5 as a/a bit of) baby-sitting, so (#5 on/I) manage.
+Thank you.
+ 
+Section 3
+(#1 ?/Dictation)-1
+My name is (#1 Robot/Robert).
+I am 18 years old and I’m French.
+I’m not married.
+Sylvia is small and (#1 fare/fair).
+She is 17, and she is a student.
+ 
+Dictation-2
+The tall boy with fair hair is 18 years old and (#6 ?/he) comes from (#1 ?/Sweden).
+He works in the record shop.
+The small boy with dark hair is 17.
+He is Spanish, but he doesn’t living in Spain.
+He lives in France.
+He works in the hotel.
+#END

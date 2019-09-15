@@ -1,0 +1,126 @@
+Listen-10
+A-dialogues
+
+Dialogue-1
+Can I help you?
+Yes, please, I like some (#1 instance/instant) of coffee.
+Certainly, how much would you like?
+A large jar, please.
+
+Dialogue-2
+That's a very nice car (#1 ?/cardigan).
+Is it new?
+Yes, it was very cheap.
+I got it in a sale.
+I like it very much, it suits you very well.
+Oh, thank you!
+
+Dialogue-3
+Do you read many novels?
+Yes, I suppose I read (#6 ?/about) 4 novels this year.
+I see, what was the last novel you read.
+Let me see, it was A and H.
+When did you read it?
+I read it on Tuesday evening.
+Why did you read it?
+Well..
+
+Dialogue-4
+Do you smoke?
+Yes, I do.
+How long have you been smoking for?
+6 years.
+How many (#1 cigurate/cigarettes) (#1 did/have) you smoke during that time?
+(#1 Thounds/Thousands)!
+
+Dialogue-5
+I was just about to have a swim when I saw a shark!
+That is nothing.
+I was in the middle of swimming when I saw the shark.
+What happened?
+I start swimming for the (#5 shark/shore #swim for the shore 为了游去对岸 swim  to the shore 游去对岸), of course.
+
+B-Hotel English
+Can I have breakfast in my room?
+Certainly, Madam.
+Breakfast is #(survey/served in) your room from 7 o'clock until 10.
+Here is the (#1 manual/menu).
+Thank you!
+I like to have a (#1 ?/Continental) breakfast.
+Yes, madam.
+And (#6 ?/at)what time would you like it?
+About half past eight, I think.
+8:30, very good, madam.
+And what kind of food juice would do you like?
+We have (#1 pinapple/pineapple), orange, (#1 ?/grapefruit).
+I think I like the pineapple, please.
+pineapple juice, and would you prefer tea or coffee?
+Coffee please.
+Thank you very much, good night.
+…
+Yes, come in.
+(#1 I/I've)  brought you your breakfast, madam.
+Oh, yes, thank you!
+Could you put it on the desk over there, please?
+Shall I (#1 pool/pour) you a cup of coffee straight away, Madam?
+No, thanks, I will pour it myself In a minute.
+Is there anything, Madam?
+No, I don't think so, thank you!
+
+Section-2
+A discussion
+Eddie is taking to Tom.
+Have you ever been really (#1 frighted/frightened)?
+I suppose so, once or twice.
+Can you remember when you were most frightened?
+That (#5 is/isn't) difficult.
+What happened?
+Well, we used to have a (#1 favour/favorite) picnic place beside a lake.
+We had a boat there.
+I was there with some friends and I decided to swim to a little island.
+It didn't look far and I started swimming, but half (#1 while/way) cross, I realized it was a lot further than I thought.
+I was getting very tired.
+I (#1 shoted/shouted).
+(#5 Likely/Luckily) my friends heard me and brought the boat.
+I (#6 ?/thought) I was (#5 getting/going) to (#1 ?/drown)).
+I have never been more frightened in my life.
+
+B-(#1 ?/Forum)
+(#5 Shoot/Should) school children take part-time jobs.
+This is a discussion which (#6 ?/will) appeared (#5 at/in) a magazine. 
+(#5 Listen #/This month), (#5 I will #/our panel) looks at part-time jobs.
+(#1 ?/Are they) (#5 go/good) for school children or not.
+(#1 Denfinally/Definitely) not, (#6 ?/the) children (#5 has/have) (#6 ?/got) two (#5 part-time/full-time) jobs already, growing up and going to school.
+Part-time jobs make (#5 time/them) (#5 super/so) tired, (#5 the will/they) fall asleep in class.
+I agree.
+I know school (#5 ?/hours) (#5 a/are) short, but (#5 there's/this) homework as well.
+And children need a lot of sleep.
+Young children perhaps, but some boy (#5 step/stay at) school until they are 18 or 19.
+A part-time job can't harm them.
+In fact, it's good for them.
+They (#5 will/earn) (#6 ?/their) (#5 pocket/pocket-money) instead of asking for their parents for it.
+And they see something of the world outside the school.
+Your (#1 absoutly/absolutely) right.
+Boys learn a lot from a part-time job.
+And we (#5 must/mustn't) forget that some families need the (#1 extre/extra) money.
+If the (#1 ?/pupils) didn't take part time jobs, they couldn't (#5 stay at/the) school.
+Well, we same to be equally divided, (#5 to/two) for and (#5 to/two) against.
+What do (#1 I #/our readrs) think?
+
+Section-3 (#1 Sport/spot) dictation
+Spot dictation-1
+Philip Andrew is 16 and he is about to leave (#1 the/ ) school.
+He come me for advice every week.
+He is looking for (#5 some/an) interesting job and he like good (#1 ?/wages), 
+One of his friends works (#5 on/in) (#1 the/a) supermarket.
+Another friend works in (#1 the/a) factory.
+Philip thinks supermarket (#9 job/jobs) are not very (#1 payed/paid).
+And factory jobs are boring.
+
+Sport dictation-2
+And finally, some news from the (#1 Unit/United) States.
+David Thomas, the (#1 ?/Californian) pop singer, is 16 today and he is giving a party for (#5 16/60) guests.
+He's young friend (#6 ?/have)) bought him a (#5 ?/Rolls-Royce), the most expensive one they could find.
+David is famous because he is the fastest driver and youngest pop star in the state of California.
+He is fly to Pairs tomorrow. 
+'

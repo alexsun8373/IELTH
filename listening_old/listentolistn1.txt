@@ -1,0 +1,1883 @@
+Listen to this 1 -Test 1
+Section 1
+(#1 Dialog/Dialogue $Dialogue:conversation between two or more people as a feature of a book, play, or movie) 1:
+Hello, I want a cab.
+OK, what address is it?
+1120 (#2 east/East) (#3 32/32nd) (#2 street/Street).
+Right, the cab will be there a few minutes.
+
+Dialogues 2:
+What’s your job?
+I am a(#4 an) accountant.
+Oh, do you join(#5 enjoy) it?
+No I don’t really like it, it’s boring.
+ 
+Dialogue 3:
+Where do you come from?
+Indonesia.
+Oh, which part?
+Jakarta.
+Really?
+ 
+Dialogue 4:
+Can you speak German?
+Yes, I can.
+I speak (#6 it) very well.
+Where did you learn it?
+I lived in Germany when I was a child.
+What else can you speak?
+Well, I know a little Italian(#1 Italian).
+ 
+Dialogue 5:
+I a think a business man should be good-looking.
+No I don’t agree.
+ 
+Dialogue 6:
+Would you like to(#5 a) drink?
+No thank you, I don’t drink.
+(#6 Are)You sure?
+Yes I quite sure, thank you very much.
+What about then soft drink then?
+Oh, all right(#1 Alright), that(#1 Lemonade) might(#5 would) be fine.
+ 
+ 
+Dialogue 7:
+Thank you very much for the meal.
+Not at all, I’m glad you could come.
+You must come have a meal with me sometime.
+Yes, that would be nice.
+ 
+Dialogue 8:
+Have hear about the (#1 primary/Prime) (#1 ?/Minister)?
+No
+She’s gone to China.
+Really?
+ 
+Dialogue 9:
+How do you spell interesting?
+Interesting.
+Thank you very much.
+ 
+Dialogue 10:
+Would you mind passing the (#5 soul/salt) please?
+Certainly.
+Section 2
+A-discussion Tim talk to Harry about the lecture.
+What did you think (#6 ?/of) the lecture?
+I thought it was very interesting.
+Did you really?
+Yes, didn’t you?
+Certainly not.
+I thought (#5 it/he ) (#5 talked/talk) (#5 too/a) lot of rubbish.
+So you think you know more than (#6 ?/he) (#5 does/us)?
+Well, take (#5 ?/coal) for instance.
+What about it?
+Coal won’t becoming important again.
+Why not?
+It’s too (#1 ?/dirty).
+They won’t be able to find people to (#7 work on the cold/ work down coal mines) in the future.
+(#7 There are/ They’ll invent) new kinds of (#1 ?/machinery).
+(#1 None of sense/Nonsense).
+(#7 There any/The only) sort of power they will use in the future is (#1 ?/atomic) power.
+ 
+B-interview(a (#1 report/reporter) from a local newspaper is interviewing some students on the subject of students and money)
+Excuse me, are you a student?
+Yes, I am.
+Forgive my asking you, (#6 ?/but) do you have to take a part time job (#7 in ? holidays/in the holidays) 
+Not really. (#7 My parents ... very .../My parents are fairly well off), so I get (#6 ?/an) allowance from my father. 
+You are luck, aren’t you?
+I suppose so.
+ 
+What about you, are your parents wealthy?  
+No, certainly (#5 no/not).
+Do you work (#5 joining/during) the holidays?
+Well, (#5 along/last) (#1 ?/Christmas) I did 2 weeks (#6 ?/as) (#1 ?/temporary) postman, then in the summer I (#8 spend/spent) 4 weeks (#5 for/fruit) picking and I do (#5 as a/a bit of) baby-sitting, so (#5 on/I) manage.
+Thank you.
+ 
+Section 3
+(#1 ?/Dictation)-1
+My name is (#1 Robot/Robert).
+I am 18 years old and I’m French.
+I’m not married.
+Sylvia is small and (#1 fare/fair).
+She is 17, and she is a student.
+ 
+Dictation-2
+The tall boy with fair hair is 18 years old and (#6 ?/he) comes from (#1 ?/Sweden).
+He works in the record shop.
+The small boy with dark hair is 17.
+He is Spanish, but he doesn’t living in Spain.
+He lives in France.
+He works in the hotel.
+#END
+ 
+ 
+
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+
+Listen 2
+Section1 dialogues
+Dialogue 1
+I think a doctor should be a friendly person.
+Yes, I agree.
+ 
+Dialogue 2
+Would you like some thing to drink?
+Just a coffee please.
+Are you sure?
+Quite certain, thank you.
+ 
+Dialogue 3
+What are you doing in New York?
+I’m writing a story for YES magazine.
+I see.
+ 
+Dialogue 4
+What are you dong in Cairo?
+I’am visiting my parents.
+Really!
+ 
+Dialogue 5
+Why are you visiting (#1 Hongkou/HongKong)?
+I’m just on the holiday.
+ 
+Dialogue 6
+Why are you in London?
+I’m here on business.
+Oh.
+ 
+Dialogue 7
+Thanks a lot for putting me up(put sb up :为某人提供住宿).
+That’s OK.
+Do you come (#5 to/and) see me when you are in New York.
+Sure, (#5 it/that) will be great.
+ 
+Dialogue 8
+Have you heard the news?
+No.
+There has been a terrible air crash.
+Oh dear, where was it?
+(#1 ??/a town called Branford)
+ 
+Dialogue 9
+Excuse me, how do you say that word, customs
+Customs.
+I see, thank you.
+ 
+Dialogue 10
+Would you like some more potatoes?
+I’m sorry, I can’t manage any more,(我再也吃不下去了) thank you!
+ 
+Section 2
+A conversion.
+ 
+Pubs? you must have good people. If the people are good, the pub will be good.
+You must has a good (#1 ?/landlord), and people with (#5 the/a) sense (#6 ?/of) (#1 human/humor) behind the bar.
+If the landlord is bad, the pub will be bad.
+I love all pubs, if it is one of those modern place, I (#5 will won’t) go in.
+And a good pub must have good (#1 bear/beer).
+If the beer is no good, people will look for another (#1 please/place). 
+I (#1 will/won’t) go if there (#1 is/isn’t) a garden.
+I have children, and if the pub doesn’t (#1 has/have) a garden or family room, we can’t go in.
+ 
+B story.
+My grandfather used to have a beautiful gold(gold 黄金/黄金制; golden 金色的) pocket watch.
+He (#1 worried/wore) it on the fine gold chain across the (#1 fund/front) of his (#1 west cold/waistcoat).
+When I was small, he promise to (#1 live/leave) it to me in his will.
+When I’m gone, this is going to be yours.
+(#1 Unfortunaly/Unfortunately) that will never happen now.
+About three (#1 weeks/months) ago, my grandfather came up to(到达) London to visit us.
+The first Sunday morning after he arrived, my (#1 younger/youngest) son said he wanted to go to the park.
+“We’ll do better than that” said my grandfather. We will go and feed the (#1 ?/pigeons) in the (#1 ?/Trafalgar) square.
+So off they went(于是他们出发了).
+They got home about tea-time and my grandfather was looking very (#1 upside/upset).
+“My watch” he said “it’s gone, someone must (#6 ?/have) stolen it while we was feeding the pigeons.
+ 
+Section-3
+Dictation-1
+My name is Daniel.
+I’m (#1 French/France).
+I (#1 living/live) in the small town.
+I work in (#4 the/a) hotel, but I don’t live in the hotel.
+I live with my parents.
+My home is near the hotel, so I walk to work everyday.
+ 
+Dictation-2
+There’s some suger, there’s some coffee and there (#1 are/is) a lot of tea, but there’s not (#6 ?/much) jam.
+There are some tomatoes, but there aren’t any eggs or (#1 ?/biscuits) and there’s not much milk.
+So we want jam, eggs, biscuits and milk.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+#9 多听
+ 
+Lesson 3
+Section1 Dialogues
+Dialogue 1:
+(#5 This is/Mrs) Scott.
+Yes?
+I’m afraid (#6 I/I’ve) had an accident.
+Oh, dear, what’s happened?
+I’ve (#5 ?/spilled) my coffee.
+Never mind, here is a (#5 ?/cloth).
+ 
+Dialogue-2
+Klaus is using the (#5 /long ?/launderette) for the first time.
+Excuse me, (#6 ?/do) you know how this works?
+Yes, put the (#1 wash/washing) inside, shut the door, the money goes in here, then when the machine starts, you have to put the (#1 ?/soap powder) in through here. 
+Is that all?
+Yes, you don’t have to do anything (#6 ?/else) until the machine stops.
+Thank you!
+ 
+Dialogue-3
+(#6 Frank/Frank’s) getting married.
+Is he really?
+Yes he is.
+I don’t believe it.
+It’s true.
+Who is he (#5 marry in/marrying) ?
+A girl he met on the holiday in Spain, I think.
+Good (#1 ?/heavens)... Where are they going to live?
+ 
+Section-2
+ A-(#1 conversion/conversation)
+Do you love me?
+I’m very (#1 bond/fond) of you.
+Yes, but do you love me?
+You mean a lot to me.
+Why won’t you answer my question?
+What question?
+Do you love me? Come on, I want to know.
+I (#1 care of/care for) you very deeply, you know that.
+That isn’t the same thing!
+What kind of answer do you expect?
+The truth, I want the truth.
+How can I possibly answer such a question.
+ 
+B-interview(2 old (#5 and/at) twenty)
+Do you remember Sally Green?
+Do you remember Sally Green, the swimming star?
+She was the girl who (#1 broken/broke) all the (#5 scores/records) at the last Olympics.
+Where is she now?
+Last week (#5 a/our) reporter Tom Park went to see Sally in her California home.
+Is it true that you don’t swim at all now?
+I am afraid so, I’m too old.
+But you only twenty.
+That’s too old for a swimmer. If I swam in (#5 the/an) international (#1 comptation/competition) now, I wouldn’t win.
+So (#6 I/I’d) rather not swim at all.
+But don’t you enjoy swimming?
+(#5 As/I) used do when I was small, but if you (#5 want to win a/enter for big) competition, you have to work very hard.
+I used to get up 6 am to go to the pool.
+I had to train before school, after school and (#5 the/at) weekends.
+I swam 35 miles every week.
+But you are famous at 15. 
+And (#5 got lots of/look at all those) cups.
+Would you like to (#1 ?/polish) them?
+Is true that I have some wonderful memories, I enjoyed visiting other countries and the Olympics (#5 was/were) very exciting. But I miss more important things. While other girls were growing up, I was swimming. What can I do now?
+ 
+Section-3 dictation
+Dictation-1
+There’s a small shop at the end of our road.
+I buy my newspaper there every Sunday.
+This is the only shop (#6 ?/that) is open on (#5 the/a) Sunday, so it’s always very busy.
+It sell milk, eggs, (#5 basics/biscuits), tea and coffee.
+You can get aspirins, (#1 too/toothpaste) or (#5 the/a) writing pad there.
+Is a nice (#5 settle/little) shop.
+ 
+Dictation-2
+This evening I (#5 went/am going) to the (#1 ?/cinema).
+I sometimes go with Beatriz, but this evening I’m going alone.
+Beatriz is nice, but he talks a lot and when I go to the cinema I like to watch the film.
+The film I’m going to is an old one, but it’s very good.
+It’s a Hitchcock film.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+#9 单复数错误
+Listen 4
+Dialogues
+Dialogue-1 
+Here is some coffee
+On (#1 ?/fantastic), is there any (#1 suger/sugar)?
+Suger? Yes of course, here you are.
+Thanks! Er...
+What’s the matter now?
+Are there any (#5 chops/chocolate) and (#1 bistics/biscuits).
+No there aren’t.
+Oh.
+ 
+Dialogue-2
+Where do you live?
+Near (#1 ?/Victoria) station.
+In (#4 the/a) flat or (#6 ?/a) house?
+In (#4 the/a) flat.
+(#9 House/Houses) are terriblely expensive.
+What’s your flat like?
+It’s small and building is old, but it’s comfortable.
+It’s very near my office.
+ 
+Dialogue-3
+When did you buy that new (#1 ?/necklace) ?
+I didn’t buy it, it was a present.
+Oh, who gave it to you?
+A friend.
+Anybody I know?
+Don’t ask so many questions.
+ 
+Dialogue-4
+Tom and Anna saw a film yesterday.
+It was exciting, wasn’t it?
+Yes it was.
+Charles Bronbson was good, wasn’t he?
+Yes, he always is.
+I thought the girl was good too.
+Did you?
+ 
+ 
+Sections-2 Conversations
+A conversation-1
+What are you doing?
+I am (#1 ?/packing).
+Why?
+Because I’m (#5 living/leaving).
+Your’re not.
+Yes I am, I’m catching the first train (#1 tommrow/tomorrow).
+But I...
+And (#6 I may/ I’m) not coming back.
+Oh, where are you going?
+To (#1 ?/Hawaii).
+Oh darling.
+ 
+B conversation-2
+Excuse me, Mr Jones.
+Can you help me?
+Of course.
+What’s the problem?
+Well, I have to wear (#6 ?/an) (#1 ?/overall), but I can’t find one.
+That’s easy.
+Why don’t you look (#5 at/in) the (#1 carpet/cupboard) beside the (#1 wash/washbasin).
+You will find one there.
+ 
+C conversation-3
+7824145 Jean Williamson speaking.
+Oh, it you Jean.
+Sorry, I have to (#1 rush out/rush off) this morning. How are the boys.
+I am taking them to the (#1 docutor/doctor) at 12 o’clock, but I’m sure they are going to be all right.
+That’s good, what about you?
+Oh, I’m fine now.
+I’m going to bake a birthday cake for tommorw. and I’v got a camera for Peter and some records for Paul.
+You (#1 ?/spoil) them.
+I’m going to open the (#9 saving/savings) account for them.
+They need to learn how to save money.
+Section 3
+Dictation
+Dictation 1
+My grandfather (#9 live/lives) with us.
+He is 70 years old and I like talking to him.
+Everyday I go for a walk with him in the park.
+My grandfather has a dog.
+The dog’s name is Nelson.
+Nelson is old and he has very short legs and bad eyes.
+But my grandfather (#9 like/likes) him very much.
+ 
+Dictation 2
+I have a small black and (#1 ?/white) television and I can get a good picture.
+But my brother has got a color television.
+It’s bigger, heavier and more (#1 completcate/complicated) than mine.
+My brother (#9 get/gets) a better picture on his television than I do on mine.
+So when there’s something very good on TV, I usually go and see my brother.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Lesson 5
+ Section-1 dialogues
+Listen to this people, they are all taking things to be repaired.
+Of course, there want to know how much will cost and how long it will take.
+Listen to there questions and writing the answer you hear.
+Here is an example:
+How it will cost to repair this typewriter?
+About a pond.
+That not bad. But how long will it take.
+Oh, only about a week.
+Look at the answers the assistant give this customer.
+The first answer is about a pond?
+The second answer is about a week.
+Now listen to this dialogues and write the missing words in your book.
+ 
+Dialogue-A
+Can you give me a # to repair this bicycle?
+I think it cost about twelve or thirteen ponds.
+And how long will it take?
+A fortnight more or less.
+ 
+Dialogue-B
+Would you have a look at this television site please?
+Yes, of course.
+Em.. how long have you had it?
+About eight years.
+Can you tell me how much do cost to repair it?
+Well, the sites is very old.
+It cost about 50 ponds.
+It‘s cheap than buy a new one.
+ 
+Dialogue-C
+How much do you think it cost to repair this typewriter?
+Let me see.
+It’s a 1916 model, about twenty ponds, I’m afraid.
+That rather a log.
+And how long will it take?
+About a month.
+Thank you!
+I’d like to think about it.
+ 
+Listen again to the customer from the typewriter shop.
+He thinks 20 ponds is rather a lot, but he needs the typewriter.
+Then he remember his friend Tony
+Tony has several typewriters.
+# the customer has an idea.
+He meets his friends Tony.
+Listen to that conversation.
+ 
+Dialogue-D
+Hello Bob, what’s that heavy # you are carry in.
+It’s my old typewriter.
+I’ve just been to the shop.
+The assistant said it cost 20 ponds to repair.
+That rather a lot.
+What are you going to do?
+Well, you’ve got several typewriters? Could you lend me one?
+I have to think about it.
+ 
+Section-2
+A word exercises.
+Listen to the instruction.
+This is an example.
+Put the letter B in box 1.
+Put the letter E in box 3.
+What do you think the word is?
+Here’s some help.
+We put the letter are in box 2.
+What do you think the word is?
+Here’s some help.
+We eat it.
+The answer is bread.
+Now put letters in the boxes # more words.
+NO-1
+Put the letter are in box 2.
+Put the letter U in box 3.
+Put the letter T in box 5.
+Here’s some help.
+We eat it.
+ 
+No-2
+Now put the letter S in box 1.
+Put the same letter in box 5.
+Put the letter H in box 2.
+Here’s some help.
+We wear them.
+ 
+NO-3
+Put the letter G in box 1.
+Put the letter I in box 3.
+Put the letter C in box 4.
+Here’s some help.
+We drink it.
+ 
+No-4
+Put the letter S in box 5.
+Put the letter L in box 3.
+Put the same letter in box 4.
+Here’s some help.
+We pay them.
+ 
+No-5
+Put the letter C in box 1.
+Put the letter K in box 5.
+The clue.
+We hear it.
+ 
+No-6
+Put the letter P in box 2.
+Put the same letter in box 3.
+Put the letter E in box 5.
+Listen
+We eat it.
+ 
+No-7
+Put the letter G in box 1.
+Put the letter I in box 3.
+Put the letter C in box 4.
+Here’s some help.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+#9 单复数错误
+#10 短语
+ 
+Listen-6
+Section-1 dialogues
+Dialogue-1
+Is that Mr. (#6 ?/Smith’s) son?
+No it isn’t.
+It Mr. MG Son.
+Is Irish?
+No he isn’t.
+He is Welsh.
+ 
+Dialogue-2
+Where are your parents now?
+They are in Zagreb.
+Is that in (#1 Australia(澳大利亚)/Austria(奥地利))?
+No, it’s in Yugoslavia.
+ 
+Dialogue-3
+Who is the girl by the door?
+It’s Jone Smith.
+Is she (#5 your/a) nurse?
+No, she is a (#1 liberiary/librarian).
+ 
+Dialogue-4
+My (#6 ?/hat and) coat please.
+Here is my ticket.
+Thank you, sir.
+Here they are.
+These not mine.
+They are Mr. West’s.
+I’m sorry, sir.
+Are these yours?
+Yes, they are.
+Thank you.
+ 
+Dialogue-5
+(#1 Who’s/Whose who’s the girl?/ Whose bag is there?) handbag is that?
+Which one?
+The big (#1 ?/leather) one.
+Oh, that’s Mr Clark’s.
+ 
+Dialogue-6
+What are you looking at?
+I’m looking at some (#1 stemps/stamps).
+Are they interesting?
+Yes, they are very (#1 real/rare) (#1 one’s/ones #指代上文的复数名次).
+ 
+Dialogue-7
+Where is (#1 Mrs #太太,夫人/Miss #小姐) Green at (#1 this/the) moment?
+In her office.
+What’s she doing there?
+She’s typing, I think.
+ 
+Dialogue-8
+Are there any pencils in the (#1 draw/drawer)?
+No I’m sorry,they aren’t (#5 there/any).
+Are there any ball-point (#5 since/pens) then?
+Yes, that are lots of ball points.（#a lot of 和lots of的区别）
+ 
+Dialogue-9
+I need some oil please.
+How much do you need, sir?
+Three (#1 ?/pounds) please.
+Thank you, sir.
+ 
+Dialogue-10
+Is there any (#1/shampoo) in the (#1 carpet/cupboard)?
+No, I’m sorry, there isn’t any.
+Is there any (#! soup/soap) then?
+Yes there’s a (#1 holl/whole) pack of soap.
+ 
+Dialogue-11
+Where does Miss Sue come from?
+She comes form Tokyo.
+What language does she speak, then?
+She speaks (#1 Japnese/Japanese).
+ 
+Dialogue-12
+What does (#5 Mr/Miss) Jenkins do?
+She is a nurse.
+Where does she work?
+(#5 Has/At) the (#1 western/Westminster) hospital.
+ 
+Dialogue-13
+Do you like your manager?
+Yes, he is nice and kind.
+Is yours kind too?
+No mine is rather a (#1 ?/brute).
+Oh I’m sorry about that.
+ 
+Dialogue-14
+It any one attending to you sir(# attend to sb/ attend on sb)?
+No I should (#5 access/like) to some dressing (#1 gangs/gowns).
+What sort are you looking for, sir?
+I (#5 find/fancy a red, (#5 ?/silk one.
+ 
+Section-2
+Telephone conversations.
+A-1
+Henry wants tickets for Romeo and Juliet, so he (#1 try/tries) to telephone the box office.
+First he hears......
+He has (#1 dial/dialed) the wrong number.
+Then he (#5 try it/tries) again.
+.......
+Henry is (#1 falt up/fed up), but he must get some tickets.
+He tries again and finally he (#5 get it/gets) through.
+...
+Cambridge (#1 solt/Theater) box office.
+Have you got any tickets for Romeo and Juliet for this Saturday evening?
+Which (#1 performance/节目)? 5 pm or 8:30 pm?
+8:30 pm please.
+Sorry that performance is (#1 solt out/sold out) out.
+Well, have you got any tickets for the 5 pm performance?
+Yes, we have ticket (#5 set/at) 4.50 pounds ,5.50 pounds and 6 pounds.
+I’d like to (#10 reserve two seats/保留两个座位) at 4.50 pounds please.
+Right, that’s two tickets at 4.50 pounds, Saturday 5 pm performance.
+What’s the name please?
+Harry Bishop.
+Thank you.
+You will (#10 collect the tickets/取票) before 3 pm on Saturday, won’t you?
+Yes, of course.
+Thank you, Goodbye.
+ 
+B-2
+...
+(#5 ?/that) (#10 number has been engaged/占线,有事) (#10 for ages/好久了).
+Nobody can be that popular.
+I want (#6 ?/if) her number has been changed.
+I think I will try again.
+...
+3346791.
+Is that you Sue?
+Who is calling?
+This is Clara, Clara Ferguson, don’t you remember me?
+Clara, of course I remember you.
+How are you?
+I haven’t (#10 heard from you/收到你的来信) for at least 2 years.
+What are you doing?
+Nothing very exciting. That’s one reason I’m ringing. I need some (#1 advise/advice).
+Advice, that’s a good one. I have just been (#5 fit/sacked).
+There’s a (#1 ?/pips), hang on Sue.
+...
+What do you mean, you have just been sacked?
+So you’re the most successful woman I know.
+That’s (#1 ?/probably) why I have been sacked. but let’s talk about you. You said you need some advice.
+I certainly do. I want to ask you about interviews.
+Have you (#5 heard/had) (#6 ?/a) lot of them?
+Yes I have, too many.
+So could you tell me the sort of (#9 question/questions) you are usually asked?
+Let me think.
+The first 10 questions are almost always the same.
+I call them the the “whys”, “hows” and “wheres”.
+...
+Not again.
+Don’t go away Sue.
+(#5 I will/I’ve) got one more (#1 call in/coin).
+Are you there Sue?
+Yes I’s still here.
+Sorry, I didn’t understand what you (#8 are/were) telling me, could you repeat it?
+It’s very boring, but here you are.
+I’m always asked: 
+Why I want to leave my present job? 
+Why I’m interested in the new job?
+How I intend to get to work?
+How long I intend to stay in the job?
+Where I live?
+Where I went to school?
+How much I’m (#1 payed/paid) my present job?
+How much I expect to be payed in the new job. 
+Oh, yes. I’m always asked if I married.
+...
+(#10 That’s it/原来如此) Sue. No more (#1 calls/coins).
+I’ll write to you soon and many thanks.
+ 
+Section-3 Dictation 
+Dictation-1
+I’m not going out with George again.
+Last week, he (#1 invinted/invited) me to go to a football match.
+I don’t like football, so it was (#1 ?/silly) of me to say yes.
+We didn’t have seats, so we had to stand for 2 hours in the (#1 ring/rain).
+I was cold and wet and I couldn’t see a thing.
+So I asked George to take me home.
+He got very (#1 angery/angry) and said some very (#1 unplasent/unpleasant) things.
+ 
+Dication-2
+Last week the sun (#1 ?/shone), and it got (#5 very/quite) hot.
+I decided to put on my light gray summer (#1 touress/trousers).
+But I got a shock.
+I couldn’t put them on.
+They were too small.
+It’s possible (#1 they/that) they got smaller during the winter, but I don’t think so.
+I’m afraid I’ve (#10 got bigger/变胖了).
+So I’m going to eat less and I’m going to (#10 take more exercises/做运动).
+I’m (#1 ?/definitely going to lose some weight.
+ 
+ 
+ 
+ 
+ 
+ 
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+#9 单复数错误
+#10 短语
+ 
+Listen-7
+Section-1 Dialogues
+Dialogue-1
+Is that Mr. Brown?
+No it isn’t, it’s Miss Bright.
+Is she English?
+No, she isn’t.
+She is American.
+ 
+Dialogue-2
+Where is Susan now?
+She is in Glasgow.
+Is Glasgow in England?
+No it’s in Scotland.
+ 
+Dialogue-3
+Who is the man over there?
+It’s Mr. Watson.
+Is he a teacher?
+No, he is a doctor.
+ 
+Dialogue-4
+My bag, please.
+Here is my ticket.
+Thank you, (#1 medim/Madam). 
+Here is your bag.
+This is not my bag.
+It’s Mrs Brown’s.
+I’m sorry, madam. Is this yours?
+Yes, it is. Thank you.
+ 
+Dialogue-5
+Excuse me, is this your book?
+No, it’s not mine.
+Whose book is it, then?
+It’s Pedro’s, I think.
+ 
+Dialogue-6
+Whose bicycle is that?
+Which one?
+The old green one.
+Oh, that’s Robert’s.
+ 
+Dialogue-7
+What are you looking at?
+I’m looking at a photograph.
+Is it interesting?
+Yes, it’s a picture of my girlfriend.
+ 
+Dialogue-8
+Where is John at the moment?
+In the garden.
+What’s he doing there?
+He is (#6 ?/reading), I think.
+ 
+Dialogue-9
+Are there (#6 ?/any) (#1 oringes/oranges) in the kitchen?
+No, I’m sorry.
+There aren’t (#1 there/any).
+Are there any bananas, then?
+Yes. There are plenty of bananas.(#10 plenty of +可数/不可数)
+ 
+Dialogue-10
+I want some #1 butter/黄油), please.
+How much do you want, madam?
+Half a pound, please.
+Thank you, madam.
+ 
+Dialogue-11
+Is there any cream in the (#1 ?/refrigerator)) ?
+No, there isn’t (#6 ?/any), I’m afraid.
+Is there milk, then?
+Yes, there’s plenty of milk.
+Dialogue-12
+Where does Pedro come from?
+He comes from Mexico City.
+What language does he speak, then?
+He speaks Spanish.
+ 
+Dialogue-13
+What does your friend do?
+He is a bank (#1 ?/clerk).
+Where does he work?
+At the Middleland Bank (#5 at/in) Birmingham.
+ 
+Dialogue-14
+Do you like your apple?
+Yes, it’s nice and sweet.
+Is yours sweet too?
+No. Mine is rather (#1 ?/sour).
+Oh, I’m sorry about that.
+ 
+Dialogue-15
+Can I help you madam?
+Yes, I want to see some (#1 ?/cardigans).
+What size do you take, madam?
+About (#5 forty/fourteen) inches, I think.
+ 
+Section-2 A Problems
+One
+I really need some new (#1 ?/curtains), but I’m afraid I can’t (#1 soon/sew).
+ 
+Two
+My problem is that I can’t find a job.
+Managers always say my hair it too long.
+ 
+Three
+I do love listening to the radio, but I’m afraid my radio isn’t working.
+ 
+Four
+Just look these shoes, they got 45 ponds last year and (#5 I have hold them now/they have holes in them now).
+ 
+ 
+Five
+Do you know anything about cars?
+My car is using too much (#1 ?/petrol).
+ 
+B Monologue
+John Haslam is talking about his garden.
+You know, I don’t really like the country.
+It’s too quiet.
+There’s not enough movement, not enough action, not enough to do.
+But (#1 I’d/I’m) like most other people.
+I need some pace of quiet sometimes, and this little garden is my (# pace/peace) quiet.
+Is big enough for me.
+During (#6 ?/the summer) I may spend three or four hours out here.
+But (#6 ?/even) in the winter, I may come out here for an hour or two at the weekends if the weather is good.
+It’s a good place to (#5 save/sit) with my typewriter.
+(#5 Now/And) it’s a good place to sit with a good and a drink.
+And do you know something?
+I spend as much time out of the house now as I did when I living in the country.
+Funny, isn’t it?
+ 
+C Telephone conversation
+Listen, mum, the phone is ringing.
+Can I answer it?
+Yes, of course. 
+But please answer correctly.
+Hello, this is Betty.
+... good evening. Is that 7896443.
+Yes,it is.
+Would you like to talk to my mother?
+Well, I like to talk to Mrs. Henderson.
+Just a moment, I will tell her.
+This is Henderson speaking, who’s calling, please.
+This is Brian Murphy, Mir. Henderson. 
+I’m your new (#1 naber/neighbor), I moved in yesterday.
+Oh, good evening Mr Murphy. Welcome to Oak Lane, can we give you any help?
+Sorry to bother you Mrs Henderson. But I like to ask you some questions.
+I’m never too busy to help a neighbor, Mr. Murphy.
+What would you like to know?
+Well,first, could you tell me what time the milkman calls? 
+And which day the (#1 ?/dustmen) come?
+Who’s the most (#1 ?/dependable) (#1 ?/newsagent)?
+Oh, yes, where is the nearest (#1 plice/police) station?
+My goodness, Mr. Murphy, you have got a lot of questions.
+Look, I have (#4 a/an) idea, why don’t you come to tea tomorrow afternoon?
+Then we can meet you and answer all your questions.
+Oh, that’s very kind of you, Miss HDS.
+What time shall I come?
+Any time after 3 o’clock.
+We look forward to meeting you, goodbye.
+Goodbye, Mrs. Hendelson.
+ 
+Section-3 dictations
+Dictation-1
+Everything changes.
+Once a lot of people went to the cinema to see the silent films.
+Then when talking picture started nobody (#8 want/wanted) to see silent films anymore.
+But people still went to the cinema and everybody knew the names of all the great film stars.
+Now, we have television.
+People (#5 see it/sit at) home night after night, watching (#1 there/their) (#1 favourite/favorite) programs.
+But what is going to happen to the cinema?
+ 
+Dictation-2
+Dear Mr. Scott, thank you for your letter of the 15th January.
+You say that you (#8 telephone/telephoned) our office five times and two days and did not receive a reply.
+I’m sorry about this, but we have had problems with our telephone.
+Your sincerely, D. Renton.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Listen-8
+Section-1 Dialogues
+Dialogue-1
+Here comes my (#1 security/secretary).
+She is (#1 extramely/extremely) good-looking (#5 an/young) woman, don’t you think?
+Yes, but she isn’t very good at her work.
+Perhaps you are right.
+But I like her all the same.
+ 
+Dialogue-2
+I’m going to bug a new carpet.
+But you can’t do that.
+Why can’t I?
+We haven’t got enough money.
+ 
+Dialogue-3
+What are you going to do this afternoon?
+I’m going to wed the garden.
+(#5 I will/are you) going to (#1 wed/weed) the garden tomorrow afternoon, too.
+No, I’m going to paint the front door.
+ 
+Dialogue-4
+I’m going to sit on this chair.
+But you mustn’t.
+Why not?
+Because it’s broken.
+ 
+Dialogue-5
+Do you like those chicken?
+Yes, I love it, thank you!
+Do you prefer (#1 ?/brown) meat or white meat?
+I really don’t mind, thank you!
+ 
+Dialogue-6
+Did you buy anything when (#5 the winter/ you went to Paris)?
+Yes, I brought a (#1 break case/briefcase).
+What’s it like?
+It’s a large (#1 leasure/leather) one.
+ 
+ 
+Dialogue-7
+Did you take a bus to the meeting place?
+No, I went (#5 there with/in) RC’s car.
+Did Susan going (#5 with/in) RC’s car too?
+No, she took a taxi.
+ 
+Dialogue-8
+Excuse me, sir.
+Is this your (#1 ?/cigarette) (#1 letter/lighter)?
+I beg your (#1 parden/pardon)?
+I said is this your cigarette lighter?
+Oh, yes, it is.
+Thank you so much.
+Not at all.
+It’s a pleasure.
+ 
+Dialogue-9
+Are you (#1 ingage/engaged) M?
+Of course, I’m not.
+Why don’t you ask N?
+I only want to (#1 prastice/practice) my English.
+Oh, I see.
+You want to make use of me.
+ 
+Dialogue-10
+Good evening and how have you spend the day?
+I serviced and cleaned the car till lunch time.
+And what did you do after lunch?
+I took the family into the country for a picnic. 
+ 
+Dialogue-11
+Hello, Tony, where have you been?
+Swimming.
+Who did you go with?
+I went with Mark and ELB.
+ 
+Dialogue-12
+Hello, why haven’t you (#1 ?/lit) your (#1 ?/cigar)?
+I haven’t brought my lighter.
+I would lend you mine, if you like.
+Thank you!
+That’s very kind of you.
+ 
+ 
+Dialogue-13
+Good evening.
+Can I help you?
+Yes, I have (#1 injuried/injured) my (#1 ank/ankle).
+What happened?
+I (#5 fellow fell off) a (#1 ?/ladder) last night.
+ 
+Dialogue-14
+What those (#5 tree/trays) made of?
+They are made of plastic.
+Are trays are always made of plastic?
+No, they are sometimes made of wood and (#1 ?/metal).
+ 
+Dialogue-15
+What’s wrong?
+I’m very (#1 thirthdy/thirsty).
+Why not buy a cup of coffee then?
+Yes, that’s a good idea, I will.
+ 
+Dialogue-16
+Excuse me.
+Is it half past four yet?
+I’m sorry, but I haven’t got a watch.
+Try the man with the walking (#1 stake/stick).
+He has one.
+Thank you, I will.
+ 
+Section-2
+A likes and dislikes
+Listen to this people talking about things they like, things they don’t like and things they sometimes like.
+K is talking to J.
+Do you like chocolates?
+It depends.
+Now like at the boxes.
+Listen again to the conversation and listen carefully to the question.
+Then put a (# take/tick) in the correct box.
+Do you like chocolates?
+It depends.
+Here is the question.
+Does she like chocolates?
+Is the tick under sometimes?
+Sometime is the correct answer.
+ 
+Now listen to the next example and do the same.
+Would you like a chocolate?
+Not at the moment, thanks.
+Here’s the question.
+Does she like chocolates?
+Is the tick under “don’t know”?
+“Don’t know” is the correct answer.
+ 
+Here are more conversations
+Listen and tick the correct boxes.
+A
+Do you like pop music?
+It depends.
+Does he like pop music?
+ 
+B
+Would like to come to a concert tonight?
+Sorry, I’m afraid I can’t.
+Does she like pop concerts?
+ 
+C
+Do you like good coffee?
+Em.. it’s (#1 dilicious/delicious).
+Does she like good coffee?
+ 
+D
+Do you like English food?
+Not all of it.
+Does he like English food?
+ 
+E
+Would you like a cup of tea?
+I’d rather have a cool drink,please.
+Does she like tea?
+ 
+F
+Would you like an ice cream?
+I never eat ice cream.
+Do he like ice cream?
+ 
+G
+Would you like to come to a football match tomorrow?
+Football match is usually (#1 ?/awful).
+Does she like football matches.
+ 
+H
+Would you like to come to the (#1 ?/cinema) this evening?
+That would be lovely.
+Does she like the cinema?
+Does she like the boy?
+ 
+B Window-shopping
+B and A are window-shopping.
+The shop is closed, but they are taking about the sales next week.
+They are planning to buy a lot of things.
+Look at that, A.
+True-value are going to sell hi-fis for 72.64 pounds
+I’m going to buy one.
+We can save at least 20 pounds.
+Yes, and look at the washing machines.
+They are going to sell some washing machines for 98.95 pounds.
+So we can save 22 pounds.
+A washing machine is more important than the hi-fi.
+By the way, A.
+Do you know how much money we’ve got.
+About 200 ponds, I hope.
+Here is the bank statement.
+I didn’t want to open it.
+Oh, dear.
+What’s the matter?
+We haven’t got 200 pounds, I’m afraid.
+Oh, come on.
+How much have we got.
+Only 160.16 ponds.
+ 
+C discussion.
+Susan is talking to C
+I hear you and J are engaged at last.
+Yes, we are.
+When are you getting married?
+In the spring.
+Oh, lovely.
+Where is the wedding going to be?
+Well, we’re not sure yet, (#1cprobally/probably) in St. Albans.
+Oh, yes, your parents live there, don’t they?
+Yes, that’s right.
+Where are you going to live?
+We are going to buy a flat or a small house somewhere in South London.
+Are you going to give up your job?
+Yes, probably, but I may look for another one when we’ve settled in.
+ 
+Section-3 dictation
+Dictation-1
+I have a watch.
+It’s a Swiss watch.
+It isn’t new and my friends are sometimes a little (#1 ?/rude) about it.
+They tell me to buy a new one.
+But I don’t want a new one.
+I’m very happy with my old watch.
+Last week, it stopped.
+So I took it to the shop.
+I didn’t ask for an (#1 asterm/estimate).
+Today I went to get it.
+You know how much I had to pay?
+5 ponds.
+5 ponds just for cleaning a watch.
+ 
+Dictation-2
+Have you ever thought what it’s like to be one of those beautiful girls that you see on the front of the fashion magazines?  
+They meet interesting people, they travel to exciting places, and sometimes they make a lot of money.
+But they have to work hard.
+They often have to get up very early in the morning, and of course they have to be very careful about what they eat.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#1 单词拼写错误
+#2 大小写错误
+#3 数字错误
+#4 冠词使用错误 (比如a accountant，应该是an) 
+#5 发音不熟（比如Do you join it. 应该是Enjoy）
+#6 漏听(比如 I speak it(漏掉) very well)
+#7 短语听写错误
+#8 时态错误
+#9 单复数错误
+#10 短语
+
+Listen-9
+Section-1 dialogues
+Dialogue-1
+I’m going to clean the (#1 black board/blackboard).
+But you can’t do that.
+Why can’t I?
+We haven’t got a (#1 ?/duster).
+
+Dialogue-2
+I’m going to drink some of this milk.
+But you mustn’t.
+Why not?
+Because it’s (#1 ?/sour).
+
+Dialogue-3
+Excuse me, Madam, did you drop your (#1 ?/glove)?
+I beg your (#1 parden/pardon).
+I said “did you drop your glove?”
+Oh, yes, I did.
+Thank you so much.
+Not at all.
+It’s a pleasure.
+
+Dialogue-4
+Are you a (#1 ?/millionaire), Peter?
+Of course, I’m not.
+Why don’t you ask RB?
+I only want to practice my English.
+Oh, I see.
+You want to make use of me.
+
+Dialogue-5
+Where have you been?
+To the cinema.
+Who did you go with?
+I went with JJ.
+
+Diaglgue-6
+What can I do for you?
+I have damaged my (#1 ?/wrist), doctor.
+How did you do that?
+I fell on it while I was playing tennis.
+
+Dialogue-7
+What’s wrong?
+I have a pain in my chest.
+Why not (#5 going to/ go and) see your doctor?
+Yes, that’s a good idea, I will.
+
+Dialogue-8
+Excuse me, but is it 7 o’clock yet.
+I’m sorry, but I haven’t a watch.
+Try the lady over there.
+She (#5 would/will) know.
+Thank you I will.
+
+Dialogue-9
+What are you going to do this evening?
+I’m going to play cards.
+Are you going to play cards tomorrow evening, too?
+No, I’m going to make a new dress.
+
+Diagogue-10
+Do you like (#5 boil/boiled) (#5 ?/eggs)?
+Yes, I love them, thank you.
+Do you prefer for (#5 hot/hard) ones or soft ones?
+I really don’t mind, thank you.
+
+Dialogue-11
+Did you buy anything when you in the town?
+Yes, I bought a (#1 ?/blouse).
+What is it like?
+It’s a blue one with a high neck.
+
+Dialogue-12
+Did you walk to the match?
+No, I went by car.
+Did John go by car, too?
+No, he cycled.
+
+Dialogue-13
+Hello, and how (#6 to/did you)  spend the holiday?
+I (#8 play/played) tennis (#5 to/till) lunch time.
+What did you do after lunch?
+I went for a swim with John.
+
+Dialogue-14
+Hello, why aren’t you playing tennis?
+I haven’t brought my (#5 rickets/racket).
+You can borrow mine, if you like.
+Oh, thank you, that’s very kind of you.
+
+
+Dialogue-15
+What are (#5 the/those) shirts (#5 make/made) of?
+They are made of (#1 ?/cotton).
+Are shirts always made of cotton?
+No, they are sometimes made of (#1 wood/wool) or (#1 ?/nylon).
+
+Section-2
+A – an (#1 invention/invitation) to a (#1 ?/Volleyball) match.
+(#5 I/I’ve) got 2 tickets for #Volleyballmatch this evening.
+Why don’t you come?
+Emm, no thanks, I’m not very interesting at Volleyball.
+Oh, why not?
+Have you ever see (#5 the play/it played)?
+No, I haven’t, but I really don’t think…
+That’ what I thought.
+You don’t know, you are missing.
+Don’t I?
+Why?
+Because it’s very fast, (#5 ?/with) lots of action.
+Really?
+(#5 whose play/who’s playing?
+Two of the best women’s teams in the world, one from F and the other from B.
+Hmm. it sounds exciting.
+Yes, it is. Very!
+Hmm, Well,  perhaps I’ll come after all.
+Good, no, could you, could I have 5 pounds, please.
+5 pounds? What for?
+Your ticket of course.
+I bought 2 of them in advance, hoping (#5 ?/I’d persuade you) to come with me.
+Oh, um … you know, (#5 I/I’ve) just (#8 remember/remembered) something.
+What?
+I ‘ll go to some friends this evening.
+Oh, I see, I mean, you (#5 will be come/won’t be coming), (#5 after all them/after all then).
+No, not. Unless…
+(#5 That’s what/ Unless what)?
+Perhaps you could let me have the ticket for a bit less.
+Let’s say 3 pounds?
+(#5 What/But) you said you had (#6 ?/to) meet some friends!
+…come on, I was only joking.
+Here’s your 5 pounds.
+Of course, I’ll come.
+
+B-telephone conversation
+TH speaking.
+Hello Tom.
+It’s P.
+I waited for a phone call from you, but I can’t wait any longer.
+Tell me about your first week.
+Hmm. It wasn’t easy.
+Wasn’t it? Why?
+What did you have to do?
+On Monday and Tuesday, I (#1 left/lifted) heavy boxes
+On Wednesday, I put (#1 hundards/hundreds) of bottoms and (#1 ?/tins)  and (#6 packs on #/packets on shelves).
+Was is boring?
+Yes, very boring.
+And I dropped a lot of boxes.
+Did you break anything?
+Oh, just a few jars of jam and a lot of bottles of tomato juice.
+.. what a mass.
+So tell me about Thursday.
+I’m afraid I was 2 hours late and the (#1 supervise.supervisor) was really angry.
+Then I put (#1 press/price) labels on bottles and ties and packets, very confusing.
+Did you put the right labels on them?
+Not always.
+I made one or two mistakes.
+Only one or two?
+What did you do on Friday and (#1 Satday/Saturday).
+I didn’t do very much.
+I was (#1 fet up/fed up).
+The supermarket wasn’t open until 9 pm.
+They want me to work over time, but I went home at 6.
+I see.
+Have you still got a job?
+I don’t know.
+I have to see the supervisor tomorrow.
+Well, (#1 you/you’d) better get up early.
+Good luck!
+
+C Monologues.
+1.I hate the stairs.
+Sometimes (#5 it’s the # working/the lift isn’t working) and you have to use stairs.
+I can’t get up the stairs by myself.
+It’s my (#5 ?/back), (#6 ?/you see).
+Jane, my friend lives on the ground (#5 flour/floor), (#5 that matches her/that’s much easier).
+Nearly, every morning I stop there for a cup of tea before I come back up here.
+
+2. (#5 are ? living/I don’t mind living) in the tall building?
+(#5 About #/I don’t mind) the stairs.
+(#5 the/I quite like the) exercise.
+Of course, it’s difficult for old people, but I don’t mind.
+If you live on the top floor, like Mrs. Green, it’s not easy.
+And I don’t like the ground floor.
+I don’t think it is safe.
+But I (#5 love/like) my place.
+I’ve got 3 floors below me and  there abrove … I feel very safe.
+My mum lives (#5 there/here) too, on the ground floor.
+ 
+Three 
+(#5 A is come Thursday morning/ Alice comes every moring)
+(#5 We meet every morning/Well, nearly every morning).
+She’s not (#5 younger/young) anymore, (#5 is she/you see)?
+She’s (#5 70/78) old next birthday and it’s difficult for her to walk up to the top floor.
+I can’t go up.
+I can’t move.
+It’s my leg. I’ve got a bad leg.
+C come to see me sometime.
+She (#5 did these/She lives here) too, you know. (#5 In the of the flat/IN another flat).
+She’s my daughter.
+
+Section-3 dictation
+Dictation-1
+We are going to Scotland for our holiday.
+We are (#1 living/leaving) early on Saturday morning and I hope we will get to York about 11 o’clock.
+We are spending with (#5 nighting Yark/the night in York), then on Sunday, we are driving up to Scotland.
+We are going to stay at a lovely little hotel near (#5 the/a) lake.
+Of course, we will (#1 problely/probably) get some rain, but I’m sure we will have a fantastic holiday.
+
+Dication-2
+People often ask me for my telephone number.
+But I haven’t got a telephone, so I tell them to ring me at work.
+Why don’t I get a telephone?
+I think the telephone is expensive and I prefer to write a letter.
+There aren’t many people I want to speak to in the evening and I don’t want to speak to anybody at breakfast time.
+When I want to use the telephone in the evening, I can always use the box at the end of the road.
+
+Section-4
+Song,
+May be it’s because I’m a (#1 ?/Londoner).
+And I love London so.
+Maybe it’s because I’m a Londoner.
+That I think of her wherever I go.
+I get a funny feeling inside of me.
+(#1 She’s/Just) walking up and down.
+Maybe it’s because I’m a Londoner.
+That I love London town.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Listen-10
+A-dialogues
+
+Dialogue-1
+Can I help you?
+Yes, please, I like some (#1 instance/instant) of coffee.
+Certainly, how much would you like?
+A large jar, please.
+
+Dialogue-2
+That’s a very nice car (#1 ?/cardigan).
+Is it new?
+Yes, it was very cheap.
+I got it in a sale.
+I like it very much, it suits you very well.
+Oh, thank you!
+
+Dialogue-3
+Do you read many novels?
+Yes, I suppose I read (#6 ?/about) 4 novels this year.
+I see, what was the last novel you read.
+Let me see, it was A and H.
+When did you read it?
+I read it on Tuesday evening.
+Why did you read it?
+Well..
+
+Dialogue-4
+Do you smoke?
+Yes, I do.
+How long have you been smoking for?
+6 years.
+How many (#1 cigurate/cigarettes) (#1 did/have) you smoke during that time?
+(#1 Thounds/Thousands)!
+
+Dialogue-5
+I was just about to have a swim when I saw a shark!
+That is nothing.
+I was in the middle of swimming when I saw the shark.
+What happened?
+I start swimming for the (#5 shark/shore #swim for the shore 为了游去对岸 swim  to the shore 游去对岸), of course.
+
+B-Hotel English
+Can I have breakfast in my room?
+Certainly, Madam.
+Breakfast is #(survey/served in) your room from 7 o’clock until 10.
+Here is the (#1 manual/menu).
+Thank you!
+I like to have a (#1 ?/Continental) breakfast.
+Yes, madam.
+And (#6 ?/at)what time would you like it?
+About half past eight, I think.
+8:30, very good, madam.
+And what kind of food juice would do you like?
+We have (#1 pinapple/pineapple), orange, (#1 ?/grapefruit).
+I think I like the pineapple, please.
+pineapple juice, and would you prefer tea or coffee?
+Coffee please.
+Thank you very much, good night.
+…
+Yes, come in.
+(#1 I/I’ve)  brought you your breakfast, madam.
+Oh, yes, thank you!
+Could you put it on the desk over there, please?
+Shall I (#1 pool/pour) you a cup of coffee straight away, Madam?
+No, thanks, I will pour it myself In a minute.
+Is there anything, Madam?
+No, I don’t think so, thank you!
+
+Section-2
+A discussion
+Eddie is taking to Tom.
+Have you ever been really (#1 frighted/frightened)?
+I suppose so, once or twice.
+Can you remember when you were most frightened?
+That (#5 is/isn’t) difficult.
+What happened?
+Well, we used to have a (#1 favour/favorite) picnic place beside a lake.
+We had a boat there.
+I was there with some friends and I decided to swim to a little island.
+It didn’t look far and I started swimming, but half (#1 while/way) cross, I realized it was a lot further than I thought.
+I was getting very tired.
+I (#1 shoted/shouted).
+(#5 Likely/Luckily) my friends heard me and brought the boat.
+I (#6 ?/thought) I was (#5 getting/going) to (#1 ?/drown)).
+I have never been more frightened in my life.
+
+B-(#1 ?/Forum)
+(#5 Shoot/Should) school children take part-time jobs.
+This is a discussion which (#6 ?/will) appeared (#5 at/in) a magazine. 
+(#5 Listen #/This month), (#5 I will #/our panel) looks at part-time jobs.
+(#1 ?/Are they) (#5 go/good) for school children or not.
+(#1 Denfinally/Definitely) not, (#6 ?/the) children (#5 has/have) (#6 ?/got) two (#5 part-time/full-time) jobs already, growing up and going to school.
+Part-time jobs make (#5 time/them) (#5 super/so) tired, (#5 the will/they) fall asleep in class.
+I agree.
+I know school (#5 ?/hours) (#5 a/are) short, but (#5 there’s/this) homework as well.
+And children need a lot of sleep.
+Young children perhaps, but some boy (#5 step/stay at) school until they are 18 or 19.
+A part-time job can’t harm them.
+In fact, it’s good for them.
+They (#5 will/earn) (#6 ?/their) (#5 pocket/pocket-money) instead of asking for their parents for it.
+And they see something of the world outside the school.
+Your (#1 absoutly/absolutely) right.
+Boys learn a lot from a part-time job.
+And we (#5 must/mustn’t) forget that some families need the (#1 extre/extra) money.
+If the (#1 ?/pupils) didn’t take part time jobs, they couldn’t (#5 stay at/the) school.
+Well, we same to be equally divided, (#5 to/two) for and (#5 to/two) against.
+What do (#1 I #/our readrs) think?
+
+Section-3 (#1 Sport/spot) dictation
+Spot dictation-1
+Philip Andrew is 16 and he is about to leave (#1 the/ ) school.
+He come me for advice every week.
+He is looking for (#5 some/an) interesting job and he like good (#1 ?/wages), 
+One of his friends works (#5 on/in) (#1 the/a) supermarket.
+Another friend works in (#1 the/a) factory.
+Philip thinks supermarket (#9 job/jobs) are not very (#1 payed/paid).
+And factory jobs are boring.
+
+Sport dictation-2
+And finally, some news from the (#1 Unit/United) States.
+David Thomas, the (#1 ?/Californian) pop singer, is 16 today and he is giving a party for (#5 16/60) guests.
+He’s young friend (#6 ?/have)) bought him a (#5 ?/Rolls-Royce), the most expensive one they could find.
+David is famous because he is the fastest driver and youngest pop star in the state of California.
+He is fly to Pairs tomorrow. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Listen to listen 11
+Section 1
+A-dialogues
+
+Diagogue-1
+What are you going to do after this lesson?
+(#5 I/I’m) (#1 problely/probably) (#6 ?/going to) have a cup of tea.
+What about you?
+Oh, I’m going to the post office.
+I see.
+
+Dialogie-2
+Can you come and see me at 9 o’clock.
+I’m afraid not.
+You see, (#5 I/I’m) (#5 meet/meeting) Mr. G at 9.
+
+Dialogue-3
+I (#5 heard/hear) you are playing (#5 ?/at) a concert tomorrow.
+How do you feel about it?
+Oh, (#5 I/I’m) very worried about it.
+I’m not (#1 ?/surprised).
+So would I be.
+
+Dialogue-4
+What are your plans for tomorrow, Bremda?
+Well, first, I’m going to the washing up.
+Poor you.
+(#5 Well/While) you are doing the washing up, I’ll be having breakfast in bed.  
+It’s alright for some people.
+
+Dialogue-5
+(#5 I/I’d) like to withdraw 50 pounds (#5 through/from) my (#1 ?/deposit) account.
+Certainly, would you please sign this form?
+Oh, yes.
+There you are.
+How would you like the money?
+In fives, please.
+Fine.
+Here you are.
+Thanks.
+Goodbye.
+
+Dialogue-6
+How are you, Brand?
+Fun, apart from the (#1 bad ache/backache).
+Oh, dear, I’m sorry to hear that.
+Yes, my back is killing me.
+Oh, I hope you soon feel better.
+Thanks.
+
+B-Restaurant English
+Dialogue-1
+(#5 The waitress/Waitress), this meat is like old (#1 ?/leather).
+It’s (#6 ?/enough to) break every tooth in your head.
+Perhaps (#5 you/you’d) like to change (#5 a/your) order, sir.
+The (#1 ?/sirloin) is very (#1 ?/tender).
+
+Dialogue-2
+John, look (#5 what that/with that), waiter’s  (#1 gone dance/gone and done).
+(#8 Spill/Spilt) soup all over my new dress.
+I’m terribly sorry, Madam.
+Perhaps if I could (#1 ?/sponge it) with the little warm water…
+(#10 Live along with the /Leave it along) (#1 menu/man), (#6 ?/You’ll) only make it worst.
+I want to speak to the manager.
+Very good, Madam.
+I do (#1 aplogise/apologize) for this unfortunate (#5 action/accident), Madam.
+If you (#6 ?/would) like to have the dress (#8 clean/cleaned) and send the bill to us, we (#1 would/will be) happy to take care of (#1 that/it).
+Oh, (#6 ?/it)doesn’t matter, forget it.
+It (#1 problely/probably) won’t (#5 ?/stain) very much.
+
+Dialogue-3
+Waiter, this just (#5 well to do/won’t do).
+This (#5 one/wine’s) got most (#1 ?/peculiar) (#1 faviour/flavor).
+Yes, sir, I’ll take it back.
+Perhaps you’d like to choose another (#5 one/wine) instead, sir.
+
+Section-2
+A-Telephone Conversation.
+Hello
+Hello, who’s that?
+It’s me.
+Who’s me?
+Why? me, of course.
+(#5 ?/Yes) (#5 I ? you/I know it’s you)
+But who are you?
+I’ve told you who I am.
+I’m ME.
+I know you are you, but I still don’t know who you are.
+(#1 Any way/Anyway), I don’t want to talk to you (#5 ?/whoever) you are.
+I really want it is (#1 Miss./Mrs.) Jones.
+Who do you want?
+Mrs Jones.
+(#5 This is/Mrs.) Jones, who is Mrs. Jones?
+(#5 Well/Why), Mrs Jones lives where you are, doesn’t she?
+This is no Mrs Jones here.
+What number do you want?
+I want (#1 ?/Bournemouth) 650283
+This is Bournemouth, 650823
+Oh, dear. I’m sorry.
+I must (#6 ?/have) (#1 dailt/dialed) the wrong number.
+It’s (#1 quiet/quite), alright.
+I’ll try dialing again.
+Sorry to (#6 ?/have) trouble to you.
+It’s quite alright.
+Goodbye
+Goodbye
+
+B-discussion
+Remembering with (#1 ?/regret).
+2 old men are taking about the days are gone by.
+Listen
+The (#1 bill is/beer’s) just like water.
+They don’t make it (#6 stronger than/as stronger as they) used to do.
+No, (#5 ?/things aren’t) (#5 talked to be /what they) used to be, are they.
+The pubs aren’t any good nowadays.
+No, but they used to be good when we were young.
+(#6 ?/The) Trouble is that the young people don’t work hard.
+No, but (#5 it/they) used to work hard when we were young.
+
+C-Monologue
+10 years ago, I (#10 loved watching /loved watching #love doing 爱好 # love to do 当前愿意去做)  television and listening to pop records.
+I hated classical music.
+But I liked playing tennis.
+5 years ago, I still liked playing tennis, but loved classical music.
+Now, I prefer classical music.
+I like playing (#1 ?/squash).
+(#5 Then/But I) hate television.
+
+D-Music or Money
+Mr. David is taking to his son, Martin.
+Why aren’t you doing your homework?
+I will do it later, Dad.
+I must get this (#1 core/chords) (#5 ?/right) first.
+(#5 Have/Our) group’s playing (#5 the/in a) concert (#5 at/on) Saturday.
+Oh, is it?
+(#5 You are being/You’ll be) make records next (#5 volume/will you)?
+We hope so.
+The man from (#6 ?/Dream Discs) (#6 ?/is) coming to the concert.
+So I’d better play well.
+You’d better (#10 get on with/get on with #继续做某事) your homework.
+You can practice all day Saturday.
+Oh, dad, you don’t understand at all.
+This concert could change my life.
+(#1 It’s/It) certainly could.
+You’ve got exams next month, important ones.
+If you don’t (#10 get a certificate/get a certificate), you won’t get (#1 ?/decent) job.
+I don’t need a certificate to play the (#1 guta/guitar).
+And I don’t want a boring old job (#5 on/in) (#6 ?/a) bank either.
+Oh, don’t you.
+Whose boring old job paid for this house?
+And for that guitar?
+Yours, I know.
+But I’d rather be happy than rich.
+
+Section-3 dictation.
+Dictation1
+Letter dictation
+Write your address, your phone number and the (#5 day/date).
+The letter is to (#5 when you/Winnipeg) Advanced education college.
+… Winnipeg advanced education college. Hillside Drive, Winnipeg.
+Dear Sir or Madam.
+Please send me details of your courses in (#2 computer programming? Computer Programming).
+Thanking you in advance.
+Yours (#1 ?/faithfully) and sign your name.
+
+Dictation-2
+Write your address, your phone number and the date.
+To (#5 save your hotel/Sea View Hotel).
+Sea View. Sea view Hotel, (#1 Habour/Harbor) road. (#1 Coark/Cork), (#5 island/Ireland)
+Dear Sir or Madam.
+I would like to book a double room with bath for 2 weeks from the first to the (#1 fourteen/fourteenth)  (#6 ?/of August) (#1 ?/inclusive).
+I look forward to receive your information.
+Yours, faithfully and then sign your name.
+

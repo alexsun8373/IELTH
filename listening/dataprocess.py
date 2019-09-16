@@ -3,7 +3,7 @@
 import sqlite3
 import re
 import sys
-reload(sys)
+#reload(sys)
 sys.setdefaultencoding('utf8')
 
 def creat_database(db_name,table_name,array):
@@ -88,7 +88,7 @@ def sentence_check(sentence):
     #print(array)
 
 if __name__ == '__main__':
-    file_name = 'l1_t9.txt'
+    file_name = 'l1_t13.txt'
     table_name = file_name[:-4]
     array=[]
     number = 0

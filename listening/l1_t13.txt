@@ -17,7 +17,7 @@ Which one are you looking at, sir?
 That one over there, next to the bread (#1 rose/rolls).
 That's a (#5 beat/beef) salad, sir.
 Thank you!
-Is there any (#1 ?rye) bread?
+Is there any (#1 ?/rye) bread?
 No, I'm sorry.
 There are plenty of (#1 breads/rolls).
 
@@ -56,10 +56,10 @@ Would you like me to bring you something else?
 Some coffee?
 
 Dialogue-2
-Waiter, This (#5 table-cloth) (#5 taste/is a disgrace).
+Waiter, This (#5 ?/table-cloth) (#5 taste/is a disgrace).
 It's covered with soup (#1 ?/stains).
 Oh, I'm so sorry, sir.
-It should (#6 ?have) been changed before.
+It should (#6 ?/have) been changed before.
 If you (#5 would/will) just wait (#5 a/one) moment?
 
 Dialogue-3
@@ -90,7 +90,7 @@ I (#5 made/met my) wife (#5 married/there) in 1965, and after we came back we bo
 But you (#5 got it out/gave it up) 3 (#5 or/years) later?
 Well, yes,(#6 ?/You see) it was very hard work (#5 because/and) I was also very busy working on my second novel (#5 ?/The Cold Earth) , which came out in 1975.  
 Yes, that was a (#5 ?/best-seller), wasn't (#5 you/it)?
-Yes, it was and that' why only 2 years after that I was able to give up television work that concentrate on films and that (#5 sort of things), and after that...
+Yes, it was and that' why only 2 years after that I was able to give up television work that concentrate on films and that (#5 ?/sort of things), and after that...
 
 B telephone conversation
 (#5 Harling ?/Harling's Hardware.
@@ -100,7 +100,7 @@ Right, I think I have one here, wait a moment,.
 Yes, here we are, it's (#5 15/50) cm wide and (#5 100/130) cm high.
 Oh, and how much is it?
 It's a 129 pounds, very cheap.
-Ok, I'll (#6 come over and) have a look at it.
+Ok, I'll (#6 ?/come over and) have a look at it.
 
 C conversion at perfect (#1 parters/partners) (#1 limited/Ltd) a dating agency.
 Good morning, can I help you?
